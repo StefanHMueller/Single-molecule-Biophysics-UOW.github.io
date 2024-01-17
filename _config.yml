@@ -16,7 +16,7 @@ timezone: Australia/Sydney
 
 title: Single-molecule biophysics # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: A text-focused Jekyll theme # it will display as the sub-title comment
 
 description: >- # used by seo meta and the atom feed
   Our new website will grow here!
