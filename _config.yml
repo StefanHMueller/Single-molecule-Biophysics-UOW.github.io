@@ -27,7 +27,7 @@ url: 'https://Single-molecule-Biophysics-UOW.github.io'
 
 
 # The base URL of your site
-baseurl: ''
+baseurl: ''./'
 
 github:
   username: Single-molecule-Biophysics-UOW # change to your github username
